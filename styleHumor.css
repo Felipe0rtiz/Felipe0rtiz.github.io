@@ -1,0 +1,66 @@
+h1{
+    display: flex;
+    font-size: 70px;
+    font-style: oblique;
+    font-weight: bold;
+    background-color: black;
+    color: rgb(255, 255, 255) ;
+    padding: 50px;
+    border: 1px;
+    justify-content: center;
+}
+element.style {
+}
+section#infos  {
+    display: flex;
+    padding: 100px;
+    color:black;
+    margin: 1px;
+       
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;  
+}
+
+user agent stylesheet
+div {
+    display: flex;
+}
+
+h3{
+    display: flex;
+    color: red;
+    padding: 10px;
+    font-size: 38px;
+}
+
+#alterar{    
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    border: 0px;
+    margin: 10px;
+    background-color: black;
+}
+
+h2{
+    display: flex;
+    color: black;
+    font-size: 40px;
+    padding: 10px;
+}
+
+html{
+    background-color: rgba(245, 245, 245, 0.644);
+    
+
+}
+h4{
+    display: flex;
+    padding: 3px;
+    border: 50px;
+    font-size: 18px;
+    margin: 2px;
+}
